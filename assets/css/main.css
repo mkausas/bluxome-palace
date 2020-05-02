@@ -210,7 +210,14 @@
 		}
 
 		.container {
-			width: 90% !important;
+			width: 100% !important;
+		}
+
+		.inner {
+			margin: 0 !important;
+			max-width: 100% !important;
+			position: absolute;
+			top: 0;
 		}
 
 	}
